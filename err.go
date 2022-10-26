@@ -1,4 +1,4 @@
-package SimqianchuanSDK
+package SimpleOceanSDK
 
 import (
 	"errors"

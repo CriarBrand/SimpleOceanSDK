@@ -1,4 +1,4 @@
-package SimqianchuanSDK
+package SimpleOceanSDK
 
 // PageInfo 页码结构体
 type PageInfo struct {

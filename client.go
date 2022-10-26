@@ -1,4 +1,4 @@
-package SimqianchuanSDK
+package SimpleOceanSDK
 
 import (
 	"github.com/CriarBrand/SimpleOceanSDK/conf"
